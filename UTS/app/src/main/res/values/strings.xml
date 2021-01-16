@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">UTS</string>
+    <string-array name="film">
+        <item>Ant Man</item>
+        <item>Avenger</item>
+        <item>Big Hero 6</item>
+        <item>Captain Amerika</item>
+        <item>Dead Pool</item>
+        <item>Emily in Paris</item>
+
+    </string-array>
+</resources>
